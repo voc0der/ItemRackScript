@@ -9,8 +9,8 @@ Trigger: ZONE_CHANGED_NEW_AREA
 `Master IR - Talent`
 Trigger: ACTIVE_TALENT_GROUP_CHANGED
 
-`Master IR - Talent Fallback`
-Trigger: PLAYER_TALENT_UPDATE
-
-`Master IR - World`
+`Master IR - Login`
 Trigger: PLAYER_ENTERING_WORLD
+
+`Masive IR - Alive`
+Trigger: PLAYER_ALIVE
